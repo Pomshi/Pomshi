@@ -5,8 +5,9 @@ Projects:
 - JESSICA BLOODLUST: Into Madness (Unity game)
 - Map of Ignis (Unity game)
 - Discord Honeypot Server (Hobby)
-- SquareSpace Merchandise Store Honeypot Website (Hobby)
+- D*GRADE (Unity game)
 - Eggwah Simulator (Unity game)
+- Negative0- Studios (Website)
 
 I'm currently learning:
 - Fundamentals of Information Security
